@@ -3,17 +3,18 @@
 
 ## Actividad 3 
 
-**Listas**
-Crea una lista que contenga los números del 1 al 10.
-Imprime la lista en el orden en que fue creada.
-Ordena la lista en orden ascendente.
-Ordena la lista en orden descendente.
-Encuentra el número más pequeño en la lista.
-Encuentra el número más grande en la lista.
-Cuenta el número de veces que aparece el número 5 en la lista.
-Elimina el número 5 de la lista.
-Agrega el número 11 a la lista.
-Imprime la lista nuevamente.
+**Listas** 
+
+1. Crea una lista que contenga los números del 1 al 10.
+2. Imprime la lista en el orden en que fue creada.
+3. Ordena la lista en orden ascendente.
+4. Ordena la lista en orden descendente.
+5. Encuentra el número más pequeño en la lista.
+6. Encuentra el número más grande en la lista.
+7. Cuenta el número de veces que aparece el número 5 en la lista.
+8. Elimina el número 5 de la lista.
+9. Agrega el número 11 a la lista.
+10. Imprime la lista nuevamente.
 
 ```
 
@@ -35,15 +36,15 @@ print(lista)```
 
 ```
 **Tuplas**
-Crea una tupla que contenga las palabras "Hola", "mundo" y "Python".
-Imprime la tupla en el orden en que fue creada.
-Ordena la tupla en orden alfabético.
-Encuentra la primera palabra en la tupla.
-Encuentra la última palabra en la tupla.
-Cuenta el número de palabras en la tupla.
-Elimina la palabra "mundo" de la tupla.
-Agrega la palabra "Hola" a la tupla.
-Imprime la tupla nuevamente.
+1. Crea una tupla que contenga las palabras "Hola", "mundo" y "Python".
+2. Imprime la tupla en el orden en que fue creada.
+3. Ordena la tupla en orden alfabético.
+4. Encuentra la primera palabra en la tupla.
+5. Encuentra la última palabra en la tupla.
+6. Cuenta el número de palabras en la tupla.
+7. Elimina la palabra "mundo" de la tupla.
+8. Agrega la palabra "Hola" a la tupla.
+9. Imprime la tupla nuevamente.
 
 ```
 tupla = ("Hola", "mundo", "Python")
@@ -61,17 +62,17 @@ print(tupla)
 ```
 
 **Conjuntos**
-Crea un conjunto que contenga los números del 1 al 10.
-Imprime el conjunto.
-Agrega el número 11 al conjunto.
-Elimina el número 5 del conjunto.
-Cuenta el número de elementos en el conjunto.
-Comprueba si el número 5 está en el conjunto.
-Comprueba si el número 11 está en el conjunto.
-Crea un conjunto que contenga las palabras "Hola", "mundo" y "Python".
-Imprime el conjunto.
-Comprueba si la palabra "Hola" está en el conjunto.
-Comprueba si la palabra "mundo" está en el conjunto.
+1. Crea un conjunto que contenga los números del 1 al 10.
+2. Imprime el conjunto.
+3. Agrega el número 11 al conjunto.
+4. Elimina el número 5 del conjunto.
+5. Cuenta el número de elementos en el conjunto.
+6. Comprueba si el número 5 está en el conjunto.
+7. Comprueba si el número 11 está en el conjunto.
+8. Crea un conjunto que contenga las palabras "Hola", "mundo" y "Python".
+9. Imprime el conjunto.
+10. Comprueba si la palabra "Hola" está en el conjunto.
+11. Comprueba si la palabra "mundo" está en el conjunto.
 
 ```
 conjunto = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
@@ -91,12 +92,12 @@ print("mundo" in conjuntoPal)
 
 ```
 **Diccionarios**
-Crea un diccionario que asigne los nombres de los días de la semana a sus números correspondientes.
-Imprime el diccionario.
-Obtén el número del día de la semana "Lunes".
-Obtén el día de la semana del número 2.
-Elimina el día de la semana "Lunes" del diccionario.
-Imprime el diccionario nuevamente.
+1. Crea un diccionario que asigne los nombres de los días de la semana a sus números correspondientes.
+2. Imprime el diccionario.
+3. Obtén el número del día de la semana "Lunes".
+4. Obtén el día de la semana del número 2.
+5. Elimina el día de la semana "Lunes" del diccionario.
+6. Imprime el diccionario nuevamente.
 
 ```
 semana = {"domingo":1, "lunes":2, "martes":3, "miercoles":4, "jueves":5, "viernes":6, "sabado":7}
