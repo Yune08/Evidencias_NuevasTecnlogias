@@ -3,7 +3,7 @@
 
 ## Actividad 4
 
-# Calculadora Básica: Crea una función llamada calculadora
+**Calculadora Básica: Crea una función llamada calculadora**
 *que tome tres argumentos: dos números y un operador (+, -, *, /).*
 *La función debe realizar la operación indicada en los dos números y devolver el resultado.*
 
@@ -25,7 +25,7 @@ print(resultado)
 
 ```
 
-# Conteo de Vocales: Crea una función llamada contar_vocales.
+**Conteo de Vocales: Crea una función llamada contar_vocales.**
 *Que tome una cadena como argumento y devuelva el número de vocales (a, e, i, o, u) que contiene la cadena.*
  
  ```
@@ -41,7 +41,7 @@ print(cant_vocales)
 
 ```
 
-# Primo o No Primo: Escribe una función llamada es_primo.
+**Primo o No Primo: Escribe una función llamada es_primo.**
 *Que tome un número entero positivo como argumento y determine si es un número primo (es decir, solo es divisible por 1 y por sí mismo).*
 
 *La función debe devolver True si es primo y False si no lo es.*
@@ -61,7 +61,7 @@ def primo(numero):
 
 ```
 
-# Contador de Palabras: Escribe una función llamada contar_palabras.
+**Contador de Palabras: Escribe una función llamada contar_palabras.**
  *Que tome una cadena como argumento y devuelva el número de palabras en esa cadena.*
  *Supón que las palabras están separadas por espacios.*
 
@@ -75,7 +75,7 @@ print(num_palabras)
 
 ```
 
-# Cálculo de Potencia: Escribe una función llamada potencia.
+**Cálculo de Potencia: Escribe una función llamada potencia.**
  *que tome dos números enteros como argumentos, uno como base y otro como exponente, y devuelva el resultado de elevar la base al exponente.*
 
 ```
