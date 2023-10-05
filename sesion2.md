@@ -1,23 +1,17 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 2
+## Actividad 2
 
-GIT![](Aspose.Words.64660abd-404a-421c-a169-3dc255ba3ca0.001.png)
+![infografia de Git](https://firebasestorage.googleapis.com/v0/b/nuevas-tecnologias-2e440.appspot.com/o/Infograf%C3%ADa%20Git%20(1).pdf?alt=media&token=e6e27db0-8d80-4c41-a584-4a435b3548ef)
 
-¿QuéesGit? Gitesunsistemadecontroldeversionesdistribuido diseñadopararastrearcambiosenelcódigofuente duranteeldesarrollodesoftware.Fuecreadopor LinusTorvaldsen2005.
+![infografia de gitHub](https://firebasestorage.googleapis.com/v0/b/nuevas-tecnologias-2e440.appspot.com/o/Infograf%C3%ADa%20GitHub.pdf?alt=media&token=d7207b62-ba5b-445e-b104-33fd40ad06f1)
 
-¿Paraquéseutiliza? Gitseutilizaparamantenerunhistorialde cambiosenelcódigo,loquepermitealosequipos dedesarrollocolaborardemaneraeficiente, realizarunseguimientodelasversionesyrevertir cambiossiesnecesario.
+![infografia de Phyton](https://firebasestorage.googleapis.com/v0/b/nuevas-tecnologias-2e440.appspot.com/o/Infografia%20Python.pdf?alt=media&token=5cd862dc-5a5b-49b9-99ad-f90bbb06de24)
 
-CARACTERÍSTICAS
 
-PRINCIPALES
 
-Distribuido:Cadamiembrodelequipotieneuna copiacompletadelrepositorio,loquefacilitael trabajoenparaleloylacolaboración. Historialdecambios:Gitregistracadacambio realizadoenelrepositorio,loquepermitever
 
-quiénhizoquéycuándo.
-
-Ramas:Losdesarrolladorespuedencrearramaspara trabajarencaracterísticasocorreccionessinafectarla versiónprincipaldelcódigo. Fusiones:Lasramassepuedenfusionarparacombinar cambiosrealizadosendiferentespartesdelcódigo. Etiquetas:Sepuedencrearetiquetasparamarcar versionesespecíficasdelcódigo.
 
 
 

@@ -1,7 +1,7 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 1 
+## Actividad 1 
 
 
 **¿Cuál es tu nivel de conocimiento de Python? (principiante, intermedio, avanzado) Explica brevemente.**
@@ -20,7 +20,7 @@ No. Conforme a la respuesta dada en la primera pregunta.
 
 
 **Escribe un breve ejemplo de código Python que involucre al menos dos de los siguientes conceptos: funciones, clases, librerías.**
-
+```
 class persona:
 	def init (self, nombre, apellido)
 		self.nombre = nombre
@@ -28,11 +28,12 @@ class persona:
 	def saludo (self)
 		print (“mi nombre es”, self.nombre, “ “, self.apellido)
 
+```
 
 **Escribe los comandos de Git que conoces y una breve explicación de cada uno.**
 
 
-Git add .: para contener todos los cambios realizados desde ese directorio del repositorio.
+Git add . para contener todos los cambios realizados desde ese directorio del repositorio.
 Git commit -m: para dejar un comentario explicando los cambios realizados
 Git push origin master: para guardar los cambios en la rama correspondiente
 Git clone: para clonar un repositorio
